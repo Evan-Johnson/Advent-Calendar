@@ -13,4 +13,4 @@ for i in range(len(arr)):
             if arr[i] + arr[j] + arr[k] == 2020:
                 print(arr[i] * arr[j] * arr[k])
 
-    
+f.close()
